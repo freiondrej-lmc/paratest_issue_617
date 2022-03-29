@@ -1,6 +1,6 @@
 Hello,
 
-thanks for taking the time to investigate the issue https://github.com/paratestphp/paratest/issues/617!
+thanks for taking the time to investigate the issue https://github.com/paratestphp/paratest/issues/617 and https://github.com/docker/for-mac/issues/6256!
 
 Please run this:
 ```shell
